@@ -15,7 +15,7 @@ Không chỉ dừng lại ở một tựa game click chuột cơ bản, dự án
 ---
 
 ## 📂 Cấu trúc thư mục chuẩn khi chạy bài
-Để chương trình không bị lỗi package (gói nhận diện lớp), cấu trúc các file trong thư mục dự án của bạn khi tải về máy phải trông như thế này:
+Để chương trình không bị lỗi package (gói nhận diện lớp), cấu trúc các file trong thư mục dự án của bạn khi tải về máy phải trông như thế này: 
 ```text
 📂 Thu-muc-goc-cua-ban/
  └── 📂 popitgame/              <-- Bắt buộc phải nằm trong thư mục tên là popitgame
